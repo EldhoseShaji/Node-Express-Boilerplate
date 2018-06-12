@@ -11,5 +11,8 @@
     "url": "\u0016https://github.com/EldhoseShaji/Node-Express-Boilerplate.git"
   },
   "author": "Eldhose Shaji",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
