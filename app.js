@@ -1,3 +1,4 @@
+//Execute $env:DEBUG = "app" first.
 var express = require('express');
 var chalk = require('chalk');
 var debug = require('debug')('app');
